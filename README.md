@@ -1,1 +1,1 @@
-![alt text]([http://url/to/img.png](https://github.com/d3miradam/Blue/blob/master/profile/airootfs/usr/share/pixmaps/blue-logo.png)https://github.com/d3miradam/Blue/blob/master/profile/airootfs/usr/share/pixmaps/blue-logo.png)
+![alt text](https://github.com/d3miradam/Blue/blob/master/profile/airootfs/usr/share/pixmaps/blue-logo.png)https://github.com/d3miradam/Blue/blob/master/profile/airootfs/usr/share/pixmaps/blue-logo.png)
