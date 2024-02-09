@@ -1,2 +1,2 @@
-This is the Blue!
+This is Blue!
 An Arch Linux based distro.
